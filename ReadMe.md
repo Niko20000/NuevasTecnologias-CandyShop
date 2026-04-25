@@ -18,7 +18,7 @@ Si tenemos restricciones en powerShell con Script:
 Set-ExecutionPolicy Unrestricted -Scope Process           //   solo en la terminal actual
 
 Para desactivar…
-deactivate
+desactivate
 
 SI TIENES FALLAS INTENTA ESTO
 rm -r venv
