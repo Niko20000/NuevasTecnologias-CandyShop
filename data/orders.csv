@@ -1,0 +1,9 @@
+order_id,product,category,quantity,price,date,customer
+1,Choco Bar,chocolate,2,1.5,2026-01-05,Juan
+2,Gummy Bears,candy, ,2.0,2026-01-06,Ana
+3,Lollipop,candy,5,abc,2026-01-07,Carlos
+4,Choco Bar,chocolate,3,1.5, ,Maria
+5,Marshmallow,candy,2,1.2,2026-01-08,
+6,Gummy Bears,candy,4,2.0,2026-01-09,Luisa
+7,Lollipop,candy,-1,1.0,2026-01-10,Pedro
+8,Choco Bar,chocolate,2,1.5,2026-01-11,Juan
