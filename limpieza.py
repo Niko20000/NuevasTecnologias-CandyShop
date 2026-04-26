@@ -29,10 +29,7 @@ def limpiar_clientes(df_archivo):
     df_archivo['ciudad'] = df_archivo['ciudad'].fillna('desconocida')
     df_archivo['telefono'] = df_archivo['telefono'].fillna(00000000)
     df_archivo['edad'] = df_archivo['edad'].replace(0, df_archivo['edad'].mean())
-    print('Reemplazando el 45')
-    df_archivo['salario'] = df_archivo['salario'].replace('$2,900,000', 2900000)
-    df_archivo['telefono'] = df_archivo['telefono'].replace('Abc123', 0)
-    df_archivo['salario'] = pd.to_numeric(df_archivo['salario'], errors='coerce').fillna(0).astype(float)
+
 
     #df_archivo.info()
 
@@ -87,7 +84,7 @@ def limpiar_clientes(df_archivo):
     df_archivo.info()
 
     # index=False evita guardar el índice de Pandas en el archivo
-    df_archivo.to_csv('data/processed/cliente_limpio.csv', index=False)
+    df_archivo.to_csv('data/processed/clientes_limpio.csv', index=False)
     return df_archivo
 
 
@@ -97,5 +94,5 @@ def limpieza_Ventas(df_compras):
     # index=False evita guardar el índice de Pandas en el archivo
     print('Eliminar datos duplicados')
     df_compras = df_compras.drop_duplicates()
-    df_compras.to_csv('data/processed/ventas_limpio.csv', index=False)
+    df_compras.to_csv('data/processed/compras_limpio.csv', index=False)
     return df_compras
