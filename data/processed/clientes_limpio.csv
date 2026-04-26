@@ -7,7 +7,7 @@ id,nombre,apellido,email,ciudad,edad,telefono
 6,Pedro,Ramirez,pedro@mail.com,Bogota,28.0,3104567890
 7,Luisa,Fernandez,luisa@gmail,Medellin,22.0,300-123-4567
 8,Sara,Gutierrez,sara@gmail.com,Cali,31.0,3207654321
-9,Sofia,Hernandez,sofia@gmail.com,Bogota,18.0,12345
+9,Sofia,Hernandez,sofia@gmail.com,Bogota,18.0,0
 10,Andres,Torres,andres@mail.com,Cartagena,45.0,3005556677
 11,Paula,Vargas,paula@mail.com,Bogota,27.0,3011111111
 12,Camilo,Ruiz,,Medellin,33.0,3002223333
@@ -47,7 +47,7 @@ id,nombre,apellido,email,ciudad,edad,telefono
 46,Pedro,Ramirez,pedro@mail.com,Bogota,28.0,3104567890
 47,Luisa,Fernandez,luisa@gmail.com,Medellin,22.0,3001234567
 48,Sara,Gutierrez,sara@gmail.com,Cali,31.0,3207654321
-49,Sofia,Hernandez,sofia@gmail.com,Bogota,18.0,12345
+49,Sofia,Hernandez,sofia@gmail.com,Bogota,18.0,0
 50,Paula,Vargas,paula@mail.com,Bogota,27.0,3011111111
 51,Paula,Vargas,paula@mail.com,Bogota,27.0,3011111111
 52,Camilo,Ruiz,camilo@gmail.com,Medellin,33.0,3002223333
@@ -87,7 +87,7 @@ id,nombre,apellido,email,ciudad,edad,telefono
 86,Pedro,Ramirez,pedro@mail.com,Bogota,28.0,3104567890
 87,Luisa,Fernandez,luisa@gmail.com,Medellin,22.0,3001234567
 88,Sara,Gutierrez,sara@gmail.com,Cali,31.0,3207654321
-89,Sofia,Hernandez,sofia@gmail.com,Bogota,18.0,12345
+89,Sofia,Hernandez,sofia@gmail.com,Bogota,18.0,0
 90,Andres,Torres,andres@mail.com,Cartagena,45.0,3005556677
 91,Paula,Vargas,,Bogota,27.0,3011111111
 92,Camilo,Ruiz,camilo@gmail.com,Bogota,33.0,3002223333

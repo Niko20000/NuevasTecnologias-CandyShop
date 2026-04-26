@@ -1,10 +1,10 @@
 id,compras,producto,cantidad
-1,$2000,chicle,2
-2,$3500,chocolate,1
+1,2000,chicle,2
+2,3500,chocolate,1
 3,1500,caramelo,3
 4,1500,chicle,5
 5,4000,galleta,1
-6,$8000,chocolate,2
+6,8000,chocolate,2
 7,1000,bombon,4
 8,70000,galleta,10
 9,2500,chocolate,2
@@ -14,9 +14,9 @@ id,compras,producto,cantidad
 13,1200,gomitas,1
 14,$9000,chocolate,1
 15,1300,candy,3
-16,7500,chocolate,1
+16,$7500,chocolate,1
 17,1600,malvavisco,2
-18,0,galleta,0
+18,7000,galleta,1
 19,2800,chocolate,1
 20,9500,caja dulces,1
 21,120000,caja dulces,10
@@ -39,7 +39,7 @@ id,compras,producto,cantidad
 38,2100,chocolate,1
 39,24000,chocolate,10
 40,1300,candy,2
-41,$2000,chicle,2
+41,2000,chicle,2
 42,3500,chocolate,1
 43,1500,caramelo,3
 44,1500,chicle,5
@@ -89,7 +89,7 @@ id,compras,producto,cantidad
 88,7000,galleta,1
 89,2500,chocolate,2
 90,500,paleta,10
-91,,galleta,
+91,7000,galleta,1
 92,$3200,galleta,2
 93,1200,gomitas,1
 94,9000,chocolate,1
