@@ -88,7 +88,7 @@ def limpiar_clientes(df_archivo):
     return df_archivo
 
 
-def limpieza_Ventas(df_compras):
+def limpieza_compras(df_compras):
     print('Limpieza de espacio y texto en formato titulo')
     df_compras['producto'] = df_compras['producto'].str.strip()
     # index=False evita guardar el índice de Pandas en el archivo

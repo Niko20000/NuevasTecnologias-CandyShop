@@ -17,11 +17,11 @@ def analisis(df_compras):
     print(df_compras_altas)
 
     print(" \n Promedio de compras")
-    print(df_compras["total"].mean())
+    print(df_compras["compras"].mean())
     print(" \n Total de compras ")
-    print(df_compras["total"].sum())
+    print(df_compras["compras"].sum())
 
     print(" \n Total de compras, por ciudad")
-    ventas_por_ciudad = df_compras.groupby('ciudad')["total"].agg(['sum', 'mean'])
+    ventas_por_ciudad = df_compras.groupby('ciudad')["compras"].agg(['sum', 'mean'])
     df_compras_ordenado = ventas_por_ciudad.sort_values(by='sum', ascending=False)
     print(df_compras_ordenado)
