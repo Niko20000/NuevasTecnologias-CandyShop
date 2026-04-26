@@ -1,0 +1,101 @@
+id,nombre,apellido,email,ciudad,edad,telefono
+1, Juan ,Perez,juan@gmail.com,Bogota,25,3001234567
+2,maria ,gomez,maria@gmail.com,MEDELLIN,19,301 2345678
+3,CARLOS,lopez,carlos@gmail.com, cali ,34,abc123456
+4,Ana,Rodriguez,ana@mail,Bogota,17,3009876543
+5,Luis,Martinez,luis@gmail.com,Barranquilla,40, 
+6,Pedro,Ramirez,PEDRO@MAIL.COM,bogotá,28,3104567890
+7,Luisa,Fernandez,luisa@gmail,Medellin,22,300-123-4567
+8,Sara,Gutierrez,sara@gmail.com,Cali,31,3207654321
+9,Sofia,Hernandez,sofia@gmail.com,BOGOTA,18,12345
+10,Andres,Torres,andres@mail.com,Cartagena,45,3005556677
+11, Paula ,Vargas,paula@mail.com,bogota,27,3011111111
+12,Camilo,Ruiz,,Medellin,33,3002223333
+13,Valentina,Castro,valentina@mail.com,Cali,treinta,notphone
+14,Diego,Ortega,diego@gmail,Bogota,29,3004445555
+15,Laura,Morales,laura@mail.com,Barranquilla,35,3112223344
+16, Sebastian ,Arias,sebastian@gmail.com,Bogotá,26, 3001231234
+17,Andrea,Mejia,andrea@mail.com,medellin,20,3010000000
+18,Jorge,Silva,jorge@mail.com,CALI,38,3023334444
+19,Camila,Romero,camila@gmail,Barranquilla,24,invalid
+20,Felipe,Navarro,felipe@mail.com,Bogotá,30,3200000000
+21,Roberto,Acosta,roberto@gmail.com,Medellin,41,3009998888
+22,Sara,Quintero,sara@gmail.com,Cali,23,3011239876
+23,SARA,QUINTERO,sara@gmail.com,cali,23,3011239876
+24,Diana,Pena,diana@mail,Bogota,36,
+25,ALBERTO,SUAREZ,alberto@gmail.com,medellin,50,3007776666
+26,julian,rios,julian@mail.com,CALI,-26,3001112222
+27,Paola,Cardenas,paola@gmail,Barranquilla,19,phone123
+28,Miguel,Lopez,miguel@gmail.com,bogotá,32,3002221111
+29,Miguel,Lopez,miguel@gmail.com,Bogota,32,3002221111
+30,Carolina,Velez,carolina@mail.com,Medellín,27,3005550000
+31,daniel,parra,daniel@mail.com,Cali,34,3008889999
+32,Lina,garcia,lina@gmail.com,BOGOTA,22,3019990000
+33,Oscar,duarte,oscar@gmail.com,Cartagena,44,3001110000
+34,fernanda,castillo,fernanda@mail.com,Medellin,29,3000001111
+35,Andrea,gomez,andrea@gmail.com,bogota,treinta,3011110000
+36,Kevin,mendez,KEVIN@MAIL.COM,medellin,-26,3123456789
+37,Lucia,prieto,lucia@gmail,CALI,18,000000
+38,Esteban,marin,esteban@mail.com,Bogotá,33,3001239999
+39,SANTIAGO,LOPEZ,santiago@mail.com,bogotá,37,3012223333
+40,Andrea,rojas,andrea@gmail.com,Medellin,25,3003334444
+41, Juan ,Perez,juan@gmail.com,Bogota,25,3001234567
+42,maria ,gomez,maria@gmail.com,MEDELLIN,19,3012345678
+43,CARLOS,lopez,carlos@gmail.com, cali ,34,abc123456
+44,Ana,Rodriguez,ana@gmail.com,Bogota,17,3009876543
+45,Luis,Martinez,luis@gmail.com,Barranquilla,40,
+46,Pedro,Ramirez,pedro@mail.com,Bogotá,28,3104567890
+47,Luisa,Fernandez,luisa@gmail.com,Medellin,22,3001234567
+48,Sara,Gutierrez,sara@gmail.com,Cali,31,3207654321
+49,Sofia,Hernandez,sofia@gmail.com,Bogota,18,12345
+50,Paula,Vargas,paula@mail.com,Bogotá,27,3011111111
+51,Paula,Vargas,paula@mail.com,Bogotá,27,3011111111
+52,Camilo,Ruiz,camilo@gmail.com,Medellin,33,3002223333
+53,Valentina,Castro,valentina@mail.com,Cali,21,notphone
+54,Diego,Ortega,diego@gmail.com,Bogotá,29,3004445555
+55,Laura,Morales,laura@mail.com,Barranquilla,35,3112223344
+56,Sebastian,Arias,sebastian@gmail.com,Bogotá,26,3001231234
+57,Andrea,Mejia,andrea@mail.com,Medellin,20,3010000000
+58,Jorge,Silva,jorge@mail.com,Cali,38,3023334444
+59,Camila,Romero,camila@gmail.com,Barranquilla,24,invalid
+60,Felipe,Navarro,felipe@mail.com,Bogotá,30,3200000000
+61,Roberto,Acosta,roberto@gmail.com,Medellin,41,3009998888
+62,Sara,Quintero,sara@gmail.com,Cali,400,3011239876
+63,Sara,Quintero,sara@gmail.com,Cali,23,3011239876
+64,Diana,Pena,diana@mail.com,Bogotá,36,
+65,Alberto,Suarez,alberto@gmail.com,Medellin,50,3007776666
+66,Julian,Rios,julian@mail.com,Cali,28,3001112222
+67,Paola,Cardenas,paola@gmail.com,Barranquilla,19,phone123
+68,Miguel,Lopez,miguel@gmail.com,Bogotá,32,3002221111
+69,Miguel,Lopez,miguel@gmail.com,Bogotá,32,3002221111
+70,Carolina,Velez,carolina@mail.com,Medellín,27,3005550000
+71,daniel,parra,daniel@mail.com,Cali,34,3008889999
+72,Lina,garcia,lina@gmail.com,Bogotá,22,
+73,Oscar,duarte,oscar@gmail.com,Cartagena,44,3001110000
+74,fernanda,castillo,fernanda@mail.com,Medellin,,3000001111
+75,Andrea,gomez,andrea@gmail.com,Bogotá,,3011110000
+76,Kevin,mendez,kevin@mail.com,Medellin,26,3123456789
+77,Lucia,prieto,lucia@gmail.com,Cali,18,000000
+78,Esteban,marin,esteban@mail.com,Bogotá,33,3001239999
+79,Santiago,Lopez,santiago@mail.com,Bogotá,37,3012223333
+80,Andrea,rojas,andrea@gmail.com,Medellin,25,3003334444
+81, Juan ,Perez,juan@gmail.com,Bogota,25,3001234567
+82,maria ,gomez,maria@gmail.com,MEDELLIN,19,3012345678
+83,CARLOS,lopez,carlos@gmail.com,Cali,34,abc123456
+84,Ana,Rodriguez,ana@gmail.com,Bogotá,17,3009876543
+85,Luis,Martinez,luis@gmail.com,Barranquilla,40,
+86,Pedro,Ramirez,pedro@mail.com,Bogotá,28,3104567890
+87,Luisa,Fernandez,luisa@gmail.com,Medellin,22,3001234567
+88,Sara,Gutierrez,sara@gmail.com,Cali,31,3207654321
+89,Sofia,Hernandez,sofia@gmail.com,Bogotá,18,12345
+90,Andres,Torres,andres@mail.com,Cartagena,45,3005556677
+91,Paula,Vargas,,Bogotá,27,3011111111
+92,Camilo,Ruiz,camilo@gmail.com,,33,3002223333
+93,Valentina,Castro,valentina@mail.com,Cali,21,notphone
+94,Diego,Ortega,diego@gmail.com,Bogotá,29,3004445555
+95,Laura,Morales,laura@mail.com,Barranquilla,35,3112223344
+96,Sebastian,Arias,sebastian@gmail.com,Bogotá,26,3001231234
+97,Andrea,Mejia,andrea@mail.com,Medellin,400,3010000000
+98,Jorge,Silva,jorge@mail.com,,38,3023334444
+99,Camila,Romero,camila@gmail.com,,24,
+100,Felipe,Navarro,felipe@mail.com,Bogotá,30,3200000000
