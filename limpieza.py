@@ -20,9 +20,14 @@ def limpiar_clientes(df_archivo):
     df_archivo['edad'] = df_archivo['edad'].replace('-26', 26)
     df_archivo['edad'] = df_archivo['edad'].replace('400', 40)
     df_archivo['telefono'] = df_archivo['telefono'].replace('notphone', 00000000)
+    df_archivo['telefono'] = df_archivo['telefono'].replace('Notphone', 00000000)
+    df_archivo['telefono'] = df_archivo['telefono'].replace('Abc123456', 00000000)
     df_archivo['telefono'] = df_archivo['telefono'].replace('invalid', 00000000)
+    df_archivo['telefono'] = df_archivo['telefono'].replace('Invalid', 00000000)
     df_archivo['telefono'] = df_archivo['telefono'].replace('phone123', 00000000)
+    df_archivo['telefono'] = df_archivo['telefono'].replace('Phone123', 00000000)
     df_archivo['telefono'] = df_archivo['telefono'].replace('12345', 00000000)
+    df_archivo['telefono'] = df_archivo['telefono'].replace('0', 00000000)
 
     df_archivo['edad'] = pd.to_numeric(df_archivo['edad'], errors='coerce').fillna(0).astype(int)
 

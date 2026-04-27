@@ -4,6 +4,11 @@ Mariana Bedoya
 Samuel Galvis
 Matias Naranjo
 
+**Como Ejecutar El Proyecto Desde La Terminal**
+1.activa el entorno virtual
+2.descarga requeriments.txt
+3. escribe esto en la terminal 
+python main.py
 
 
 *ENTORNO VIRTUAL*
