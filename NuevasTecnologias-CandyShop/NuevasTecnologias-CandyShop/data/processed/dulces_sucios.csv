@@ -1,0 +1,102 @@
+id_dulce,precio,cantidad,vendedor
+D01,$ 2500,5,Juan P
+D02,1200,10,Maria C
+D03, $500,20,Andres F
+D04, 3000 ,8,Juan P
+D05,$1500,15,Maria C
+D01,2500,,Andres F
+D06,$ 800,30,Juan P
+D07, $ 4500 ,2,Maria C
+D08,12000,1,Andres F
+D09,$ 2200,12,Juan P
+D10, 3500 ,5,Maria C
+D01,$2500,7,Andres F
+D02, 1200 ,10,Juan P
+D03,$500,25,Maria C
+D04,,10,Andres F
+D05,$ 1500 ,5,Juan P
+D06, 800,40,Maria C
+D07,$4500,3,Andres F
+D08, $12000,2,Juan P
+D09, 2200,10,Maria C
+D10,$ 3500,8,Andres F
+D01, 2500,15,Juan P
+D02,$1200,12,Maria C
+D03,500,50,Andres F
+D04,$3000,5,Juan P
+D05,,20,Maria C
+D06,$800,15,Andres F
+D07, 4500 ,4,Juan P
+D08,$12000,1,Maria C
+D09, 2200,14,Andres F
+D10,$3500,10,Juan P
+D01,$2500,6,Maria C
+D02,1200,10,Andres F
+D03,$ 500,30,Juan P
+D04,3000,12,Maria C
+D05,$ 1500,8,Andres F
+D06,800,25,Juan P
+D07,$4500,5,Maria C
+D08, 12000,2,Andres F
+D09,$ 2200,15,Juan P
+D10,3500,6,Maria C
+D01,,10,Andres F
+D02,$1200,15,Juan P
+D03, 500,40,Maria C
+D04,$3000,7,Andres F
+D05,1500,12,Juan P
+D06,$ 800,20,Maria C
+D07, 4500,2,Andres F
+D08,$12000,3,Juan P
+D09, 2200,10,Maria C
+D10,$3500,9,Andres F
+D01,2500,12,Juan P
+D02,$ 1200,8,Maria C
+D03, 500 ,60,Andres F
+D04,$3000,4,Juan P
+D05, 1500,18,Maria C
+D06,$800,35,Andres F
+D07,4500,6,Juan P
+D08,$ 12000,1,Maria C
+D09, 2200,20,Andres F
+D10,$3500,10,Juan P
+D01,2500,5,Maria C
+D02,$1200,,Andres F
+D03, 500,45,Juan P
+D04,$3000,8,Maria C
+D05,1500,10,Andres F
+D06,$800,50,Juan P
+D07, 4500,3,Maria C
+D08,$12000,2,Andres F
+D09, 2200,12,Juan P
+D10,$3500,15,Maria C
+D01,2500,10,Andres F
+D02,$1200,20,Juan P
+D03, 500,30,Maria C
+D04,,5,Andres F
+D05,$1500,12,Juan P
+D06, 800,40,Maria C
+D07,$4500,4,Andres F
+D08,12000,1,Juan P
+D09,$ 2200,18,Maria C
+D10, 3500,7,Andres F
+D01,2500,5,Juan P
+D02,$1200,10,Maria C
+D03,500,20,Andres F
+D04,$3000,15,Juan P
+D05,1500,10,Maria C
+D06,$800,30,Andres F
+D07, 4500,2,Juan P
+D08,$12000,3,Maria C
+D09, 2200,12,Andres F
+D10,$3500,10,Juan P
+D01,2500,5,Maria C
+D02,,10,Andres F
+D03,$ 500,25,Juan P
+D04,3000,10,Maria C
+D05,$1500,15,Andres F
+D06,800,20,Juan P
+D07,$4500,3,Maria C
+D08,12000,2,Andres F
+D09,$ 2200,12,Juan P
+D10,3500,10,Maria C
